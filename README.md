@@ -28,7 +28,7 @@ This project is built using pure, unadulterated web technologies for maximum spe
 ## 📂 Project Architecture
 
 ```text
-plain_html_project/
+syntax-hr-system/
 ├── 📂 assets/
 │   ├── 📂 css/
 │   │   └── 📄 styles.css           # Custom UI themes and responsive design
